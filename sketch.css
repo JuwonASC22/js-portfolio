@@ -1,0 +1,26 @@
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(87, 77, 77);
+    color:blue;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 7px;
+    text-decoration: none;
+}
+
+#big_div {
+    display:flex;
+    justify-content: space-around;
+    border: 1px solid rgb(46, 2, 2);
+    border-radius: 15px;
+}
+
+body {
+    background-color:aqua;
+}
+
+h1 {
+    font-size: 50px;
+    color :blueviolet;
+    text-align: center;
+}
